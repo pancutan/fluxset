@@ -7,6 +7,6 @@ Scenario:
 - Fluxbox, XFCE or any other Window Manager without control panel
 - Stupid control panel on Unity, Gnome, KDE or fat WM, unable to put adequately 1920x1080, 1024x768, etc
 
-This stupid script let choose quickly a double moitor + keyboard configuration
+This tiny script let choose quickly a double moitor + keyboard configuration
 
 Sergio Alonso - escuelaint@gmail.com
