@@ -1,0 +1,12 @@
+Script able to set up a second monitor and a second keyboard
+
+Scenario:
+- Display running at 1360x768
+- Second monitor display, awaiting on VGA or HDMI
+- Second keyboard
+- Fluxbox, XFCE or any other Window Manager without control panel
+- Stupid control panel on Unity, Gnome, KDE or fat WM, unable to put adequately 1920x1080, 1024x768, etc
+
+This stupid script let choose quickly a double moitor + keyboard configuration
+
+Sergio Alonso - escuelaint@gmail.com
