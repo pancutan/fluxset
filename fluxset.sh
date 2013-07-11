@@ -1,6 +1,9 @@
 #!/bin/bash
+#
+# fluxset.sh - Script to quickly configure second display and keyboard under light window manager like fluxbox, lxde and many others
+#
 # (C) 2013 Sergio Alonso <escuelaint@gmail.com>
-# 
+#
 # This program is free software; you can redistribute it and/or modify it
 # under the terms of the GNU General Public License version 2 as published
 # by the Free Software Foundation.
